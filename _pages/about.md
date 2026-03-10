@@ -1,9 +1,18 @@
 ---
 permalink: /about/
-title: "About"
-layout: collection
-last_modified_at: 2019-06-13T15:15:09-04:00
-author_profile: true
+title: "About 10timesPod"
+layout: single
+last_modified_at: 2026-03-10T00:00:00+08:00
+author_profile: false
 ---
 
-学习笔记和个人思考, 基本都是从巨人的肩膀(书或博客)上学习, 总结, 最后沉淀出来。提升认知, 自我迭代的过程需要学习-思考-归纳不断地循环, 博客是种好的思考和归纳的工具。之前有过6年Android开发经验, 做过即时通信, 视频聊天, 直播, 虚拟形象, AR拍照、商城等等业务; 最近从Android中跳了出来, 去学习思考归纳大前端的知识栈。
+10timesPod 是一个面向中文用户的英文播客 Web 应用，核心目标是让“听英文播客”这件事更容易开始、更容易理解，也更容易沉淀内容。
+
+## 产品定位
+
+我们希望通过英文转录、中文翻译字幕和在线播放能力，帮助用户更轻松地理解英文播客中的观点、故事和知识内容。
+
+## 维护者
+
+10timesPod 由 `venciallee` 开发和维护。<br>
+如需联系，请发送邮件至 `venciallee@gmail.com`。

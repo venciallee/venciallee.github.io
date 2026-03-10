@@ -1,9 +1,32 @@
 ---
-title: Android
-layout: collection
+title: "10timesPod"
+description: "10timesPod 是一个支持英文转录与中文翻译的双语字幕播客播放器，帮助中文用户更轻松地收听和理解英文播客。"
+layout: single
 permalink: /
-collection: android
-author_profile: true
+author_profile: false
+classes: wide
+last_modified_at: 2026-03-10T00:00:00+08:00
 ---
 
-<p>This text should appear above the recent posts.</p>
+10timesPod 是一个支持英文转录与中文翻译的双语字幕播客播放器，帮助中文用户更轻松地收听、理解和整理英文播客内容。
+
+## 这个应用做什么
+
+- 订阅英文播客 RSS，管理常听节目
+- 在线播放播客单集
+- 提供英文转录与中文翻译字幕，降低英文播客的理解门槛
+- 支持使用 Google 账号登录，以便安全登录并同步与本服务相关的账号数据
+
+## 适合谁
+
+- 希望通过播客学习英文的中文用户
+- 想快速理解英文访谈、科技节目和知识内容的用户
+
+## 为什么会使用 Google 登录
+
+Google 登录仅用于用户身份验证，以及让你安全地登录 10timesPod 并管理与本服务相关的数据。我们不会读取或使用你未授权的 Google 数据。
+
+## 联系方式
+
+如需产品支持、账号帮助或隐私相关协助，请联系 `venciallee@gmail.com`。<br>
+更多信息可查看 [隐私政策](/privacy/) 和 [服务条款](/terms/)。

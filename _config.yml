@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "所写即所得"
+locale                   : "zh-CN"
+title                    : "10timesPod"
 title_separator          : "-"
-name                     : "venciallee"
-description              : "格物致知诚意正心修身齐家."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "10timesPod"
+description              : "支持英文转录与中文翻译的双语字幕播客播放器。"
+url                      : "https://vencial.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -87,9 +87,10 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Organization
+  name                   : "10timesPod"
+  links:
+    - "https://vencial.com"
 
 # Analytics
 analytics:
@@ -103,13 +104,13 @@ analytics:
 author:
   name             : "venciallee"
   avatar           : "/assets/images/avatar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "格物致知诚意正心修身齐家."
+  bio              : "10timesPod 开发者"
   location         : "China"
   email            : "venciallee@gmail.com"
   links:
-    - label: "Website"
+    - label: "10timesPod"
       icon: "fas fa-fw fa-link"
-      url: "http://vencial.com"
+      url: "https://vencial.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
